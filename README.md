@@ -4,7 +4,6 @@ Technical articles and research notes on microservices, distributed systems, and
 
 This repository contains engineering articles based on research and practical experience in designing and operating distributed systems.
 
----
 
 ## Featured Article
 
@@ -32,7 +31,6 @@ It also examines widely used resilience mechanisms such as:
 The key insight is that resilience is not achieved by applying patterns in isolation.  
 Instead, system reliability emerges from the interaction between architecture, communication style, workload behavior, and operational practices.
 
----
 
 ## Key Takeaways
 
@@ -43,7 +41,6 @@ Instead, system reliability emerges from the interaction between architecture, c
 - Resilience patterns introduce trade-offs between availability, latency, throughput, and operational complexity.
 - Effective resilience requires system-level architectural thinking.
 
----
 
 ## Author
 
